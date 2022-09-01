@@ -4,7 +4,7 @@
 ##### I  Am Francisco August🍂🍁💥
 #####A frontend developer from Chile 🌞☀❄
 ________________________________
-![progrmacion](https://openexpoeurope.com/wp-content/uploads/2021/01/python-vs-julia-portada-400x300.jpg "progrmacion")
+![progrmacion](https://www.aplicacionespara.org/wp-content/uploads/2020/12/Lenguaje-De-Programacion-Basic-6.jpg"progrmacion")
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
