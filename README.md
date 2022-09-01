@@ -22,7 +22,7 @@ franciscoaugust19921992@gmail.com
 
 <img   width=" 100" src="https://prod-discovery.edx-cdn.org/media/course/image/3f849803-fde7-4da6-a302-70c8d33ab57b-24c2e8f4a6cb.small.png">
 <img   width=" 100" src="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg">
-<img   width=" 100" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+
 </div>
 
 
