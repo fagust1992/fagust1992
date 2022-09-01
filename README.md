@@ -24,5 +24,5 @@ franciscoaugust19921992@gmail.com
 <img   width=" 100" src="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg">
 <img   width=" 100" src="">
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fagust1992)](https://git.io/streak-stats)
+
 
