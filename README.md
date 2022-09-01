@@ -27,4 +27,4 @@ franciscoaugust19921992@gmail.com
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fagust1992)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fagust1992&theme=dark)](https://git.io/streak-stats)
