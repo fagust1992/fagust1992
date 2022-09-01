@@ -1,7 +1,7 @@
 
 #### Welcome to my profile GitHub 🖖🍀🌲
-##### I  Am Francisco August🍂🍁💥
-#####A frontend developer from Chile 🌞☀❄
+##### I Am Francisco August🍂🍁💥
+##### I Am frontend developer from Chile 🌞☀❄
 ##### I am currently learning **HTML CSS BOOTSTRAP GITHUB JAVASCRIPT REACT Jquery **
 ________________________________
 ![progrmacion](https://i0.wp.com/www.laraveltip.com/wp-content/uploads/2018/12/Hola-Mundo-4ta-Migraci%C3%B3n-Camionetica.png?fit=700%2C400&ssl=1"progrmacion")
