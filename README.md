@@ -10,7 +10,7 @@ ________________________________
 [Portafolio](https://franciscoaugust.netlify.app/)
 franciscoaugust19921992@gmail.com
 
-####Languages and Tools:
+##### Languages and Tools:🍂🍁💥
 <div style="display:flex " >
 
 <img   width=" 100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"> 
@@ -25,3 +25,4 @@ franciscoaugust19921992@gmail.com
 <img   width=" 100" src="">
 </div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fagust1992)](https://git.io/streak-stats)
+
