@@ -95,7 +95,7 @@ perspectiva analítica como desde la implementación de herramientas digitales.
 ##### Languages and Tools:🍂🍁💥
 <div style="display:flex " >
 
-<img   width=" 100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"> 
+
 
 <img   width=" 100" src="https://www.anerbarrena.com/wp-content/uploads/2017/08/programacion-javascript-js-e1503258707880.jpg">
 
