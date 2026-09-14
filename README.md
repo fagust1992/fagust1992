@@ -1,61 +1,95 @@
 # 👋 Hola, soy Francisco August
 
-## 📊 Analista de Datos | En formación en Ciencia de Datos
+## 📊 Analista de Datos | Desarrollo de Software | En formación en Ciencia de Datos
 
-Estoy orientando mi experiencia comercial hacia el análisis de datos, la
+Estoy orientando mi experiencia como analista  de datos comerciales , la
 inteligencia de negocios y la mejora de procesos.
 
-Actualmente estudio Ciencia de Datos y desarrollo habilidades para transformar
-información en análisis útiles para la toma de decisiones.
+Actualmente estudio Ciencia de Datos y desarrollo habilidades tanto en análisis
+y consulta de información como en programación de aplicaciones .
 
-Mi perfil combina experiencia comercial con conocimientos técnicos en análisis,
-reportería, bases de datos y herramientas empresariales.
+Mi perfil combina experiencia de negocio, conocimientos de datos y desarrollo de
+soluciones digitales para registrar, organizar y gestionar información.
 
 ## 🧰 Herramientas y tecnologías
 
+### 📊 Datos, análisis y bases de datos
+
 - 🐍 Python
 - 🗃️ SQL
-- 🦆 DuckDB
-- 📦 Parquet
+- 📗 Microsoft Excel
 - 📊 Power BI
+  
+
+### 💻 Desarrollo web
+
+- ⚛️ React
+- 🟨 JavaScript
+- 🟢 Node.js
+- 🌐 HTML
+- 🎨 CSS
+
+### 🛠️ Herramientas empresariales y de trabajo
+
 - 🏢 SAP
 - ☁️ Salesforce
 - 🐙 Git y GitHub
+
+## 💻 Programación y análisis de datos
+
+- Consultas SQL para extraer, filtrar, agrupar y analizar información.
+- Análisis y transformación de datos utilizando Python y Excel.
+- Creación de reportes y visualizaciones en Power BI.
+- Validación y diagnóstico de calidad de datos.
+- Documentación de tablas, métricas y metadatos.
+- Desarrollo de aplicaciones web con React, JavaScript y Node.js.
+- Creación de herramientas digitales para registrar y gestionar información.
+- Resolución de problemas mediante programación y análisis estructurado.
 
 ## 🔎 Áreas de interés
 
 - 📈 Análisis de datos
 - 💼 Business Intelligence
-- 🧮 Consultas SQL
+- 🧮 Programación aplicada a datos
+- 🗃️ Bases de datos SQL
 - ✅ Calidad de datos
 - 🏛️ Gobierno y documentación de datos
 - 📊 Reportes y visualización
 - ⚙️ Mejora y control de procesos
 - 🎯 Apoyo a la toma de decisiones
-
-## 🚀 Actualmente
-
-- 🎓 Estudio Ciencia de Datos.
-- 🔍 Desarrollo proyectos de análisis y calidad de datos.
-- 🧠 Fortalezco mis conocimientos en SQL, Python y Power BI.
-- 📝 Trabajo en documentación de métricas, tablas y metadatos.
-- 💡 Busco oportunidades relacionadas con análisis de datos, BI y control de gestión.
+- 🌐 Desarrollo de aplicaciones web
 
 ## 📂 Proyectos destacados
 
 En este perfil encontrarás proyectos relacionados con:
 
-- Consultas y análisis utilizando SQL.
-- Exploración y transformación de datos.
-- Diagnóstico de calidad de información.
-- Documentación de datos y métricas.
-- Análisis orientado a necesidades de negocio.
+- 📈 Análisis de datos y consultas SQL.
+- 🌐 Desarrollo de aplicaciones web con React, JavaScript, HTML y CSS.
+- 🟢 Desarrollo de funcionalidades con Node.js.
+- 👥 Registro y gestión de usuarios.
+- 🧮 Programación aplicada a la resolución de problemas.
+- ✅ Validación y documentación de datos.
+- 📊 Reportes y visualizaciones.
+- 💼 Soluciones digitales orientadas a procesos de negocio.
+
+## 🚀 Actualmente
+
+- 🎓 Estudio Ciencia de Datos.
+- 🔍 Desarrollo proyectos de análisis y calidad de datos.
+- 🧠 Fortalezco mis conocimientos en SQL, Python, Excel y Power BI.
+- 💻 Continúo desarrollando aplicaciones web y proyectos de programación.
+- 📝 Trabajo en la documentación de métricas, tablas y metadatos.
+- 💡 Busco oportunidades relacionadas con análisis de datos, BI, control de
+  gestión y desarrollo de soluciones digitales.
 
 ## 🤝 Perfil profesional
 
-Me interesa seguir desarrollándome en roles donde pueda conectar el análisis
-de datos con los objetivos del negocio, aportando una mirada analítica,
-ordenada y orientada a la mejora continua.
+Me interesa conectar la programación, el análisis de datos y las necesidades del
+negocio para desarrollar soluciones útiles, ordenadas y orientadas a mejorar
+la gestión de la información y los procesos.
+
+Mi objetivo es seguir creciendo en roles donde pueda aportar tanto desde la
+perspectiva analítica como desde la implementación de herramientas digitales.
 
 ##### Languages and Tools:🍂🍁💥
 <div style="display:flex " >
