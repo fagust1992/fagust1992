@@ -96,8 +96,9 @@ perspectiva analítica como desde la implementación de herramientas digitales.
 <div style="display:flex " >
 
 
+<img   width=" 100" src="https://media.licdn.com/dms/image/v2/D4D12AQGE5UzTwoNIDQ/article-cover_image-shrink_720_1280/B4DZUYX5HtHwAI-/0/1739870672232?e=2147483647&v=beta&t=US5xGfxL5uR29FxZTHpNtIRh8bcrCD9sbSRnlVFoGSg">
 
-<img   width=" 100" src="https://www.anerbarrena.com/wp-content/uploads/2017/08/programacion-javascript-js-e1503258707880.jpg">
+<img   width=" 100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rTBe4nzuEIpqLh6EXeeRjA8GCFy6ZEMUs7JgXYN7VQ&s=10">
 
 <img   width=" 100" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
 <img   width=" 100" src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png">
