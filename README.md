@@ -1,14 +1,15 @@
 # 👋 Hola, soy Francisco August
 
-## 📊 Analista de Datos | Desarrollo de Software | En formación en Ciencia de Datos
+## 📊 Analista de Datos Comerciales | Desarrollo de Software | En formación en Ciencia de Datos
 
-Estoy orientando mi experiencia como analista  de datos comerciales , la
-inteligencia de negocios y la mejora de procesos.
+Trabajo como Analista de Datos Comerciales, utilizando información de clientes,
+ventas y procesos comerciales para identificar oportunidades, apoyar la toma de
+decisiones y contribuir a la generación de ventas.
 
-Actualmente estudio Ciencia de Datos y desarrollo habilidades tanto en análisis
-y consulta de información como en programación de aplicaciones .
+Actualmente estudio Ciencia de Datos y desarrollo habilidades en análisis de
+información, consultas SQL, programación y desarrollo de aplicaciones web.
 
-Mi perfil combina experiencia de negocio, conocimientos de datos y desarrollo de
+Mi perfil combina experiencia comercial, análisis de datos y desarrollo de
 soluciones digitales para registrar, organizar y gestionar información.
 
 ## 🧰 Herramientas y tecnologías
