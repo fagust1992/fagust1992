@@ -1,14 +1,61 @@
+# 👋 Hola, soy Francisco August
 
-#### Welcome to my profile GitHub 🖖🍀🌲
-##### I Am Francisco August🍂🍁💥
-##### I Am frontend developer from Chile 🌞☀❄
-##### I am currently learning **bootcamp full stack **
-________________________________
-![progrmacion](https://i0.wp.com/www.laraveltip.com/wp-content/uploads/2018/12/Hola-Mundo-4ta-Migraci%C3%B3n-Camionetica.png?fit=700%2C400&ssl=1"progrmacion")
-#### where to find me
-[Instagram](https://www.instagram.com/francisco_august_rincon/)
-[Portafolio](https://franciscoaugust.netlify.app/)
-franciscoaugust19921992@gmail.com
+## 📊 Analista de Datos | En formación en Ciencia de Datos
+
+Estoy orientando mi experiencia comercial hacia el análisis de datos, la
+inteligencia de negocios y la mejora de procesos.
+
+Actualmente estudio Ciencia de Datos y desarrollo habilidades para transformar
+información en análisis útiles para la toma de decisiones.
+
+Mi perfil combina experiencia comercial con conocimientos técnicos en análisis,
+reportería, bases de datos y herramientas empresariales.
+
+## 🧰 Herramientas y tecnologías
+
+- 🐍 Python
+- 🗃️ SQL
+- 🦆 DuckDB
+- 📦 Parquet
+- 📊 Power BI
+- 🏢 SAP
+- ☁️ Salesforce
+- 🐙 Git y GitHub
+
+## 🔎 Áreas de interés
+
+- 📈 Análisis de datos
+- 💼 Business Intelligence
+- 🧮 Consultas SQL
+- ✅ Calidad de datos
+- 🏛️ Gobierno y documentación de datos
+- 📊 Reportes y visualización
+- ⚙️ Mejora y control de procesos
+- 🎯 Apoyo a la toma de decisiones
+
+## 🚀 Actualmente
+
+- 🎓 Estudio Ciencia de Datos.
+- 🔍 Desarrollo proyectos de análisis y calidad de datos.
+- 🧠 Fortalezco mis conocimientos en SQL, Python y Power BI.
+- 📝 Trabajo en documentación de métricas, tablas y metadatos.
+- 💡 Busco oportunidades relacionadas con análisis de datos, BI y control de gestión.
+
+## 📂 Proyectos destacados
+
+En este perfil encontrarás proyectos relacionados con:
+
+- Consultas y análisis utilizando SQL.
+- Exploración y transformación de datos.
+- Diagnóstico de calidad de información.
+- Documentación de datos y métricas.
+- Análisis orientado a necesidades de negocio.
+
+## 🤝 Perfil profesional
+
+Me interesa seguir desarrollándome en roles donde pueda conectar el análisis
+de datos con los objetivos del negocio, aportando una mirada analítica,
+ordenada y orientada a la mejora continua.
 
 ##### Languages and Tools:🍂🍁💥
 <div style="display:flex " >
